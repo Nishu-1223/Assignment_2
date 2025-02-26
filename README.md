@@ -1,25 +1,22 @@
 # Python_Assignments
-Assignment 1: Basic Python Concepts
-Task 1: Perform Basic Mathematical Operations
+Assignment 2: Control Structures in Python
+
+Task 1: Check if a Number is Even or Odd
 
 ```
-nishu@Nishus-MacBook-Air Python_Assignments % python3 Assignment_1/Task01.py
-Enter the first number: 2
-Enter the second number: 5
-
-Addition: 7
-Substration: -3
-Multiplication: 10
-Division: 0.4
-```
-Task 2: Create a Personalized Greeting
+nishu@Nishus-MacBook-Air Assignment_2 % python3 Task01.py 
+Enter a number: 5
+5 is an odd number.
 
 ```
-nishu@Nishus-MacBook-Air Python_Assignments % python3 Assignment_1/Task02.py
-Enter your first name: nishu
-Enter your second name: jain 
 
-Hello, Nishu Jain! Welcome to Python program.
+Task 2: Sum of Integers from 1 to 50 Using a Loop
+
+```
+nishu@Nishus-MacBook-Air Assignment_2 % python3 Task02.py 
+The sum of numbers from 1 to 50 is: 1275
+
+
 ```
 
 
